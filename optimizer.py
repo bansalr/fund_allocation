@@ -26,10 +26,10 @@ def pie_chart_portfolio ( fundLabels, fundAmounts, fee):
 	# make a square figure and axes
 	figure(1, figsize=(8,8))
 	ax = axes([0.1, 0.1, 0.8, 0.8])
-	fee_str = 'Satisfying Allocation, Fee: %2.2f' % ( fee *1e4)
+	title_str = 'Satisfying Allocation, Fee: %2.1f bps' % ( fee *1e4)
 	explode = [0.03] * len(fundLabels)
 	pie(fundAmounts, explode=explode, labels=fundLabels, autopct='%1.1f%%', shadow=True, startangle=90)
-	title(title_str, bbox={'facecolor':'0.8', 'pad':5})
+	title(title_str, bbox={'facecolor':'0.8', 'pad':10})
 	show()
 
 
@@ -89,7 +89,7 @@ def setupLP(minPurchaseFlag = False, geoFlag = False, assetFlag = False ):
 	## Sum (Allocations) <= Total Dollars
 
 	dollars=portfolio.st(
-		( totalDollars *0.99 ) <= sum(fundAmounts[i] for i in cid) <= totalDollars
+		( totalDollars -100 ) <= sum(fundAmounts[i] for i in cid) <= totalDollars
 	)
 
 	fundMinBinary = portfolio.var(binaries, 'Bool',bool)
@@ -164,6 +164,7 @@ def setupLP(minPurchaseFlag = False, geoFlag = False, assetFlag = False ):
 	pretty_print_portfolio ()
 	### main
 
-fundsDict= loadFundDB("./vanguard_db.psv")
+code.interact(local=locals())
+fundsDict= loadFundDB("./db/vanguard_db.psv")
 
 code.interact(local=locals())
