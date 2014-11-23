@@ -1,0 +1,150 @@
+Fund Name,,MorningstarCategory,BestFitIndex,ExpenseRatio2,No-LoadFunds,Front-endLoad,Back-endLoad,RedemptionFee,12b-1Fee,MinInitialPurchase,Symbol
+Vanguard 500 Index Admiral,,Large Blend,XIUSA04G92,0.05,Yes,0,0,0,0,"10,000",VFIAX
+Vanguard 500 Index Inv,,Large Blend,XIUSA04G92,0.17,Yes,0,0,0,0,"3,000",VFINX
+Vanguard Consumer Discretionar,,Consumer Cyclical,S&P 1500 Cons Discretionary TR,0.12,Yes,0,0,0,0,"100,000",VCDAX
+Vanguard Consumer Staples Inde,,Consumer Defensive,S&P 1500 Cons Staples TR,0.12,Yes,0,0,0,0,"100,000",VCSAX
+Vanguard Developed Markets Idx,,Foreign Large Blend,MSCI EAFE NR USD,0.09,Yes,0,0,0,0,"10,000",VTMGX
+Vanguard Developed Markets Idx,,Foreign Large Blend,MSCI EAFE NR USD,0.07,Yes,0,0,0,0,"5,000,000",VTMNX
+Vanguard Developed Markets Idx,,Foreign Large Blend,--,--,Yes,0,0,0,0,"100,000,000",VDIPX
+Vanguard Developed Markets Idx,,Foreign Large Blend,--,0.2,Yes,0,0,0,0,"3,000",VDVIX
+Vanguard Dividend Apprec Idx A,,Large Blend,--,0.1,Yes,0,0,0,0,"10,000",VDADX
+Vanguard Dividend Appreciation,,Large Blend,XIUSA04G92,0.2,Yes,0,0,0,0,"3,000",VDAIX
+Vanguard Emerg Mkts Govt Bd Id,,Emerging Markets Bond,--,0.34,Yes,0,0,0,0,"10,000",VGAVX
+Vanguard Emerg Mkts Govt Bd Id,,Emerging Markets Bond,--,0.49,Yes,0,0,0,0,"3,000",VGOVX
+Vanguard Emerging Mkts Stk Idx,,Diversified Emerging Mkts,MSCI EM NR USD,0.1,Yes,0,0,0,0,"100,000,000",VEMRX
+Vanguard Emerging Mkts Stock I,,Diversified Emerging Mkts,MSCI EM NR USD,0.15,Yes,0,0,0,0,"10,000",VEMAX
+Vanguard Emerging Mkts Stock I,,Diversified Emerging Mkts,MSCI EM NR USD,0.12,Yes,0,0,0,0,"5,000,000",VEMIX
+Vanguard Emerging Mkts Stock I,,Diversified Emerging Mkts,MSCI EM NR USD,0.33,Yes,0,0,0,0,"3,000",VEIEX
+Vanguard Energy Index Adm,,Equity Energy,S&P 1500 Energy TR,0.12,Yes,0,0,0,0,"100,000",VENAX
+Vanguard European Stock Index,,Europe Stock,MSCI Europe NR USD,0.12,Yes,0,0,0,0,"10,000",VEUSX
+Vanguard European Stock Index,,Europe Stock,MSCI Europe NR USD,0.09,Yes,0,0,0,0,"5,000,000",VESIX
+Vanguard European Stock Index,,Europe Stock,--,0.08,Yes,0,0,0,0,"100,000,000",VEUPX
+Vanguard European Stock Index,,Europe Stock,MSCI Europe NR USD,0.26,Yes,0,0,0,0,"3,000",VEURX
+Vanguard Extended Market Idx A,,Mid-Cap Blend,XIUSA0010Y,0.1,Yes,0,0,0,0,"10,000",VEXAX
+Vanguard Extended Market Idx I,,Mid-Cap Blend,S&P MidCap 400 TR,0.08,Yes,0,0,0,0,"5,000,000",VIEIX
+Vanguard Extended Market Idx I,,Mid-Cap Blend,S&P MidCap 400 TR,0.06,Yes,0,0,0,0,"100,000,000",VEMPX
+Vanguard Extended Market Idx I,,Mid-Cap Blend,S&P MidCap 400 TR,0.24,Yes,0,0,0,0,"3,000",VEXMX
+Vanguard Financials Index Adm,,Financial,DJ US Financial TR USD,0.12,Yes,0,0,0,0,"100,000",VFAIX
+Vanguard FTSE All-Wld ex-US Id,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.15,Yes,0,0,0,0,"10,000",VFWAX
+Vanguard FTSE All-Wld ex-US Sm,,Foreign Small/Mid Blend,MSCI ACWI Ex USA NR USD,0.19,Yes,0,0,0,0,"5,000,000",VFSNX
+Vanguard FTSE All-Wld ex-US Sm,,Foreign Small/Mid Blend,MSCI ACWI Ex USA NR USD,0.4,Yes,0,0,0,0,"3,000",VFSVX
+Vanguard FTSE All-Wld x-US Idx,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.12,Yes,0,0,0,0,"5,000,000",VFWSX
+Vanguard FTSE All-Wld x-US Idx,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.1,Yes,0,0,0,0,"100,000,000",VFWPX
+Vanguard FTSE All-World ex-US,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.3,Yes,0,0,0,0,"3,000",VFWIX
+Vanguard FTSE Social Index I,,Large Growth,Russell 3000 TR USD,0.16,Yes,0,0,0,0,"5,000,000",VFTNX
+Vanguard FTSE Social Index Inv,,Large Growth,Russell 3000 TR USD,0.27,Yes,0,0,0,0,"3,000",VFTSX
+Vanguard Glbl ex-US Rel Est Id,,Global Real Estate,MSCI World/Real Estate NR USD,0.27,Yes,0,0,0.25,0,"10,000",VGRLX
+Vanguard Global ex-US Rel Est,,Global Real Estate,MSCI World/Real Estate NR USD,0.24,Yes,0,0,0.25,0,"5,000,000",VGRNX
+Vanguard Global ex-US Rel Est,,Global Real Estate,MSCI World/Real Estate NR USD,0.4,Yes,0,0,0.25,0,"3,000",VGXRX
+Vanguard Growth Index Adm,,Large Growth,Russell 1000 Growth TR USD,0.09,Yes,0,0,0,0,"10,000",VIGAX
+Vanguard Growth Index I,,Large Growth,Russell 1000 Growth TR USD,0.08,Yes,0,0,0,0,"5,000,000",VIGIX
+Vanguard Growth Index Inv,,Large Growth,Russell 1000 Growth TR USD,0.24,Yes,0,0,0,0,"3,000",VIGRX
+Vanguard Health Care Index Adm,,Health,DJ US Health Care TR USD,0.12,Yes,0,0,0,0,"100,000",VHCIX
+Vanguard High Dividend Yield I,,Large Value,XIUSA00115,0.19,Yes,0,0,0,0,"3,000",VHDYX
+Vanguard Industrials Index Adm,,Industrials,S&P 1500 Industrials TR,0.12,Yes,0,0,0,0,"100,000",VINAX
+Vanguard Information Technolog,,Technology,Morningstar SEC/Technology TR USD,0.12,Yes,0,0,0,0,"100,000",VITAX
+Vanguard Institutional Index I,,Large Blend,XIUSA04G92,0.04,Yes,0,0,0,0,"5,000,000",VINIX
+Vanguard Institutional Index I,,Large Blend,XIUSA04G92,0.02,Yes,0,0,0,0,"200,000,000",VIIIX
+Vanguard Instl Ttl Stk Mkt Idx,,Large Blend,Russell 3000 TR USD,0.04,Yes,0,0,0,0,"100,000,000",VITNX
+Vanguard Instl Ttl Stk Mkt Idx,,Large Blend,Russell 3000 TR USD,0.02,Yes,0,0,0,0,"200,000,000",VITPX
+Vanguard Interm-Term Bond Idx,,Intermediate-Term Bond,--,0.05,Yes,0,0,0,0,"100,000,000",VBIUX
+Vanguard Interm-Term Bond Inde,,Intermediate-Term Bond,XIUSA000C0,0.1,Yes,0,0,0,0,"10,000",VBILX
+Vanguard Interm-Term Bond Inde,,Intermediate-Term Bond,XIUSA000C0,0.07,Yes,0,0,0,0,"5,000,000",VBIMX
+Vanguard Interm-Term Bond Inde,,Intermediate-Term Bond,XIUSA000C0,0.2,Yes,0,0,0,0,"3,000",VBIIX
+Vanguard Interm-Tm Corp Bd Idx,,Corporate Bond,XIUSA000ME,0.12,Yes,0,0,0,0,"10,000",VICSX
+Vanguard Interm-Tm Corp Bd Idx,,Corporate Bond,XIUSA000ME,0.09,Yes,0,0,0,0,"5,000,000",VICBX
+Vanguard Interm-Tm Govt Bd Idx,,Intermediate Government,XIUSA000MJ,0.12,Yes,0,0,0,0,"10,000",VSIGX
+Vanguard Interm-Tm Govt Bd Idx,,Intermediate Government,XIUSA000MJ,0.09,Yes,0,0,0,0,"5,000,000",VIIGX
+Vanguard Large Cap Index Adm,,Large Blend,Russell 1000 TR USD,0.09,Yes,0,0,0,0,"10,000",VLCAX
+Vanguard Large Cap Index I,,Large Blend,Russell 1000 TR USD,0.08,Yes,0,0,0,0,"5,000,000",VLISX
+Vanguard Large Cap Index Inv,,Large Blend,Russell 1000 TR USD,0.24,Yes,0,0,0,0,"3,000",VLACX
+Vanguard Long-Term Bond Idx In,,Long-Term Bond,XIUSA000BM,0.05,Yes,0,0,0,0,"100,000,000",VBLIX
+Vanguard Long-Term Bond Index,,Long-Term Bond,XIUSA000BM,0.07,Yes,0,0,0,0,"5,000,000",VBLLX
+Vanguard Long-Term Bond Index,,Long-Term Bond,XIUSA000BM,0.2,Yes,0,0,0,0,"3,000",VBLTX
+Vanguard Long-Term Corp Bond I,,Corporate Bond,XIUSA000ME,0.12,Yes,0,0,0,0,"10,000",VLTCX
+Vanguard Long-Term Corp Bond I,,Corporate Bond,XIUSA000ME,0.09,Yes,0,0,0,0,"5,000,000",VLCIX
+Vanguard Long-Term Govt Bd Idx,,Long Government,XIUSA000ML,0.12,Yes,0,0,0,0,"10,000",VLGSX
+Vanguard Long-Term Govt Bond I,,Long Government,XIUSA000ML,0.09,Yes,0,0,0,0,"5,000,000",VLGIX
+Vanguard Materials Index Adm,,Natural Resources,Morningstar SEC/Basic Materials TR USD,0.12,Yes,0,0,0,0,"100,000",VMIAX
+Vanguard Mega Cap Growth Index,,Large Growth,Russell 1000 Growth TR USD,0.1,Yes,0,0,0,0,"5,000,000",VMGAX
+Vanguard Mega Cap Index Instit,,Large Blend,XIUSA0010W,0.08,Yes,0,0,0,0,"5,000,000",VMCTX
+Vanguard Mega Cap Value Index,,Large Value,XIUSA0011A,0.08,Yes,0,0,0,0,"5,000,000",VMVLX
+Vanguard Mid Cap Index Adm,,Mid-Cap Blend,XIUSA0010X,0.09,Yes,0,0,0,0,"10,000",VIMAX
+Vanguard Mid Cap Index I,,Mid-Cap Blend,XIUSA0010X,0.08,Yes,0,0,0,0,"5,000,000",VMCIX
+Vanguard Mid Cap Index InstlPl,,Mid-Cap Blend,XIUSA0010X,0.06,Yes,0,0,0,0,"100,000,000",VMCPX
+Vanguard Mid Cap Index Inv,,Mid-Cap Blend,XIUSA0010X,0.24,Yes,0,0,0,0,"3,000",VIMSX
+Vanguard Mid-Cap Growth Index,,Mid-Cap Growth,Russell Mid Cap Growth TR USD,0.09,Yes,0,0,0,0,"10,000",VMGMX
+Vanguard Mid-Cap Growth Index,,Mid-Cap Growth,Russell Mid Cap Growth TR USD,0.24,Yes,0,0,0,0,"3,000",VMGIX
+Vanguard Mid-Cap Value Index A,,Mid-Cap Value,Russell Mid Cap Value TR USD,0.09,Yes,0,0,0,0,"10,000",VMVAX
+Vanguard Mid-Cap Value Index I,,Mid-Cap Value,Russell Mid Cap Value TR USD,0.24,Yes,0,0,0,0,"3,000",VMVIX
+Vanguard Mortgage-Backed Sec I,,Intermediate-Term Bond,XIUSA000MN,0.12,Yes,0,0,0,0,"10,000",VMBSX
+Vanguard Mortgage-Backed Sec I,,Intermediate-Term Bond,--,0.09,Yes,0,0,0,0,"5,000,000",VMBIX
+Vanguard Pacific Stock Index A,,Diversified Pacific/Asia,MSCI Pacific NR USD,0.12,Yes,0,0,0,0,"10,000",VPADX
+Vanguard Pacific Stock Index I,,Diversified Pacific/Asia,MSCI Pacific NR USD,0.09,Yes,0,0,0,0,"5,000,000",VPKIX
+Vanguard Pacific Stock Index I,,Diversified Pacific/Asia,MSCI Pacific NR USD,0.26,Yes,0,0,0,0,"3,000",VPACX
+Vanguard REIT Index Adm,,Real Estate,DJ US Select REIT TR USD,0.1,Yes,0,0,0,0,"10,000",VGSLX
+Vanguard REIT Index I,,Real Estate,DJ US Select REIT TR USD,0.08,Yes,0,0,0,0,"5,000,000",VGSNX
+Vanguard REIT Index Inv,,Real Estate,DJ US Select REIT TR USD,0.24,Yes,0,0,0,0,"3,000",VGSIX
+Vanguard Russell 1000 Growth I,,Large Growth,Russell 1000 Growth TR USD,0.08,Yes,0,0,0,0,"5,000,000",VRGWX
+Vanguard Russell 1000 Index I,,Large Blend,Russell 1000 TR USD,0.08,Yes,0,0,0,0,"5,000,000",VRNIX
+Vanguard Russell 1000 Value In,,Large Value,Russell 1000 Value TR USD,0.08,Yes,0,0,0,0,"5,000,000",VRVIX
+Vanguard Russell 2000 Growth I,,Small Growth,Russell 2000 Growth TR USD,0.08,Yes,0,0,0,0,"5,000,000",VRTGX
+Vanguard Russell 2000 Index I,,Small Blend,Russell 2000 TR USD,0.08,Yes,0,0,0,0,"5,000,000",VRTIX
+Vanguard Russell 2000 Value In,,Small Value,--,0.08,Yes,0,0,0,0,"5,000,000",VRTVX
+Vanguard Russell 3000 Index I,,Large Blend,Russell 3000 TR USD,0.08,Yes,0,0,0,0,"5,000,000",VRTTX
+Vanguard S&P Mid-Cap 400 Growt,,Mid-Cap Growth,S&P MidCap 400 TR,0.08,Yes,0,0,0,0,"5,000,000",VMFGX
+Vanguard S&P Mid-Cap 400 Index,,Mid-Cap Blend,S&P MidCap 400 TR,0.08,Yes,0,0,0,0,"5,000,000",VSPMX
+Vanguard S&P Mid-Cap 400 Value,,Mid-Cap Value,S&P MidCap 400 TR,0.08,Yes,0,0,0,0,"5,000,000",VMFVX
+Vanguard S&P Small-Cap 600 Ind,,Small Blend,Russell 2000 TR USD,0.08,Yes,0,0,0,0,"5,000,000",VSMSX
+Vanguard Short-Term Bond Idx I,,Short-Term Bond,XIUSA000CT,0.07,Yes,0,0,0,0,"5,000,000",VBITX
+Vanguard Short-Term Bond Idx I,,Short-Term Bond,XIUSA000CT,0.05,Yes,0,0,0,0,"100,000,000",VBIPX
+Vanguard Short-Term Bond Index,,Short-Term Bond,XIUSA000CT,0.1,Yes,0,0,0,0,"10,000",VBIRX
+Vanguard Short-Term Bond Index,,Short-Term Bond,XIUSA000CT,0.2,Yes,0,0,0,0,"3,000",VBISX
+Vanguard Short-Term Corp Bd Id,,Short-Term Bond,XIUSA000CT,0.12,Yes,0,0,0,0,"10,000",VSCSX
+Vanguard Short-Term Corp Bd Id,,Short-Term Bond,XIUSA000CT,0.09,Yes,0,0,0,0,"5,000,000",VSTBX
+Vanguard Short-Term Govt Bd Id,,Short Government,XIUSA000BV,0.12,Yes,0,0,0,0,"10,000",VSBSX
+Vanguard Short-Term Govt Bd Id,,Short Government,XIUSA000BV,0.09,Yes,0,0,0,0,"5,000,000",VSBIX
+Vanguard Shrt-Term Infl-Prot S,,Inflation-Protected Bond,--,0.1,Yes,0,0,0,0,"10,000",VTAPX
+Vanguard Shrt-Term Infl-Prot S,,Inflation-Protected Bond,--,0.07,Yes,0,0,0,0,"5,000,000",VTSPX
+Vanguard Shrt-Term Infl-Prot S,,Inflation-Protected Bond,--,0.2,Yes,0,0,0,0,"3,000",VTIPX
+Vanguard Small Cap Growth Inde,,Small Growth,Russell 2000 Growth TR USD,0.09,Yes,0,0,0,0,"10,000",VSGAX
+Vanguard Small Cap Growth Inde,,Small Growth,Russell 2000 Growth TR USD,0.08,Yes,0,0,0,0,"5,000,000",VSGIX
+Vanguard Small Cap Growth Inde,,Small Growth,Russell 2000 Growth TR USD,0.24,Yes,0,0,0,0,"3,000",VISGX
+Vanguard Small Cap Index Adm,,Small Blend,XIUSA0010Y,0.09,Yes,0,0,0,0,"10,000",VSMAX
+Vanguard Small Cap Index I,,Small Blend,XIUSA0010Y,0.08,Yes,0,0,0,0,"5,000,000",VSCIX
+Vanguard Small Cap Index Instl,,Small Blend,XIUSA0010Y,0.06,Yes,0,0,0,0,"100,000,000",VSCPX
+Vanguard Small Cap Index Inv,,Small Blend,XIUSA0010Y,0.24,Yes,0,0,0,0,"3,000",NAESX
+Vanguard Small Cap Value Index,,Small Value,XIUSA00116,0.09,Yes,0,0,0,0,"10,000",VSIAX
+Vanguard Small Cap Value Index,,Small Value,XIUSA00116,0.08,Yes,0,0,0,0,"5,000,000",VSIIX
+Vanguard Small Cap Value Index,,Small Value,XIUSA00116,0.24,Yes,0,0,0,0,"3,000",VISVX
+Vanguard Tax-Managed Capital A,,Large Blend,Russell 1000 TR USD,0.12,Yes,0,0,0,0,"10,000",VTCLX
+Vanguard Tax-Managed Capital A,,Large Blend,Russell 1000 TR USD,0.08,Yes,0,0,0,0,"5,000,000",VTCIX
+Vanguard Tax-Managed Small Cap,,Small Blend,Russell 2000 TR USD,0.12,Yes,0,0,0,0,"10,000",VTMSX
+Vanguard Tax-Managed Small Cap,,Small Blend,Russell 2000 TR USD,0.08,Yes,0,0,0,0,"5,000,000",VTSIX
+Vanguard Telecom Services Inde,,Communications,Morningstar SEC/Communication Svc TR USD,0.12,Yes,0,0,0,0,"100,000",VTCAX
+Vanguard Total Bond Market Idx,,Intermediate-Term Bond,XIUSA000MC,0.05,Yes,0,0,0,0,"100,000,000",VBMPX
+Vanguard Total Bond Market Ind,,Intermediate-Term Bond,XIUSA000MC,0.08,Yes,0,0,0,0,"10,000",VBTLX
+Vanguard Total Bond Market Ind,,Intermediate-Term Bond,XIUSA000MC,0.07,Yes,0,0,0,0,"5,000,000",VBTIX
+Vanguard Total Bond Market Ind,,Intermediate-Term Bond,XIUSA000MC,0.2,Yes,0,0,0,0,"3,000",VBMFX
+Vanguard Total Intl Bd Idx Adm,,World Bond,--,0.2,Yes,0,0,0,0,"10,000",VTABX
+Vanguard Total Intl Bd Idx Ins,,World Bond,--,0.12,Yes,0,0,0,0,"5,000,000",VTIFX
+Vanguard Total Intl Bd Idx Inv,,World Bond,--,0.23,Yes,0,0,0,0,"3,000",VTIBX
+Vanguard Total Intl Stock Idx,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.1,Yes,0,0,0,0,"100,000,000",VTPSX
+Vanguard Total Intl Stock Inde,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.14,Yes,0,0,0,0,"10,000",VTIAX
+Vanguard Total Intl Stock Inde,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.12,Yes,0,0,0,0,"5,000,000",VTSNX
+Vanguard Total Intl Stock Inde,,Foreign Large Blend,MSCI ACWI Ex USA NR USD,0.22,Yes,0,0,0,0,"3,000",VGTSX
+Vanguard Total Stock Market Id,,Large Blend,Russell 3000 TR USD,0.04,Yes,0,0,0,0,"5,000,000",VITSX
+Vanguard Total Stock Mkt Idx A,,Large Blend,Russell 3000 TR USD,0.05,Yes,0,0,0,0,"10,000",VTSAX
+Vanguard Total Stock Mkt Idx I,,Large Blend,Russell 3000 TR USD,0.17,Yes,0,0,0,0,"3,000",VTSMX
+Vanguard Total World Stock Ind,,World Stock,MSCI ACWI NR USD,0.16,Yes,0,0,0,0,"5,000,000",VTWIX
+Vanguard Total World Stock Ind,,World Stock,MSCI ACWI NR USD,0.3,Yes,0,0,0,0,"3,000",VTWSX
+Vanguard Utilities Index Adm,,Utilities,Morningstar SEC/Utilities TR USD,0.12,Yes,0,0,0,0,"100,000",VUIAX
+Vanguard Value Index Adm,,Large Value,Russell 1000 Value TR USD,0.09,Yes,0,0,0,0,"10,000",VVIAX
+Vanguard Value Index I,,Large Value,Russell 1000 Value TR USD,0.08,Yes,0,0,0,0,"5,000,000",VIVIX
+Vanguard Value Index Inv,,Large Value,Russell 1000 Value TR USD,0.24,Yes,0,0,0,0,"3,000",VIVAX
+S&P 500 Value Index Institutional Shares,,US Stock,Large-Cap Value,0.08,Yes,0,0,0,0,"5,000,000",VSPVX
+S&P 500 Value Index Institutional Shares,,US Stock,Large-Cap Value,0.08,Yes,0,0,0,0,"5,000,000",VSPGX
+S&P 500 Value Index Institutional Shares,,US Stock,Large-Cap Value,0.08,Yes,0,0,0,0,"5,000,000",VSMVX
+S&P 500 Value Index Institutional Shares,,US Stock,Large-Cap Value,0.08,Yes,0,0,0,0,"5,000,000",VSGNX
+S&P 500 Value Index Institutional Shares,,US Stock,Large-Cap Value,0.08,Yes,0,0,0,0,"100,000,000",VPAPX
+S&P 500 Value Index Institutional Shares,,US Stock,Large-Cap Value,0.08,Yes,0,0,0,0,"5,000,000",VGIVX
