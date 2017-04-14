@@ -7,7 +7,7 @@ setlocale(LC_NUMERIC, '')
 parser = argparse.ArgumentParser(description='Load an ETF into a database')
 parser.add_argument('vanguard_file', help='The CSV file to parse.')
 parser.add_argument('morningstar_file', help='The CSV file to parse.')
-args  =  parser.parse_args()
+args = parser.parse_args()
 
 fundsDict = {}
 
@@ -40,6 +40,4 @@ with open("vanguard_db.psv",  'w') as fp:
 	for fund in fundsDict.keys():
 		dict_writer.writerow(fundsDict[fund])
 
-
-import code
 code.interact(local=locals())
